@@ -337,6 +337,7 @@ Meanwhile, suppliers' delivery times lengthened to the greatest extent since Oct
       doc_size_bytes: 1024,
     },
     model: "mistral-ocr-latest",
+    maxTokens: 8000
   }
 }
 

@@ -333,7 +333,7 @@ Meanwhile, suppliers' delivery times lengthened to the greatest extent since Oct
     ],
     storedAssets: storedAssets, // 명시적으로 storedAssets 배열 포함
     usage: {
-      pages_processed: 1,
+      pages_processed: 4,
       doc_size_bytes: 1024,
     },
     model: "mistral-ocr-latest",
